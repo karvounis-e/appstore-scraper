@@ -6,6 +6,8 @@
 
 namespace Iqu\AppStore;
 
+use AppStoreCountries\Countries;
+
 /**
  * Class that deals with connecting to iTunes and fetching data for a particular software.
  *
